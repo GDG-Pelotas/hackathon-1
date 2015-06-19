@@ -1,0 +1,12 @@
+<h2 class="section-title"><%= @labels['about'] %></h2>
+<p>O <strong>GDG Pelotas</strong> apresenta seu primeiro Hackathon!
+    A premiação será <strong>2 Chromecasts</strong> para a equipe vencedora.</p>
+
+<p>Monte sua equipe e venha participar!
+Equipes de 2 ou 3 pessoas.
+Não tem equipe? entre em contato que montamos uma para você!
+O participante deve levar seu computador.</p>
+
+<p>O GDG Pelotas não visa o lucro, por isso todo dinheiro arrecadado será revertido em brindes para os participantes. Cada participante irá receber uma camiseta personalizada do evento.</p>
+
+<p>Antes de se increver analise o <a href="https://gist.github.com/mdanemberg/ca9bc7012d03b78588d7">regulamento</a> ;)</p>
